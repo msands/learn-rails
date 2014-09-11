@@ -39,7 +39,7 @@ Rails.application.configure do
   }
 
   # Send email in development mode.
-  config.acton_mailer.perform_deliveries = true
+  config.action_mailer.perform_deliveries = true
 
   # Adds additional error checking when serving assets at runtime.
   # Checks for improperly declared sprockets dependencies.
