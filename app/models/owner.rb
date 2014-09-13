@@ -1,6 +1,6 @@
 class Owner
   def name
-    name = "Foobar Kadigan"
+    name = "Young Cruisey"
   end
 
   def birthdate
